@@ -245,7 +245,7 @@ main {
   .projects {
     grid-template-columns: repeat(4, 1fr); } }
 
-@media screen and (min-width: 769px) and (max-width: 1170px) {
+@media screen and (min-width: 769px) and (max-width: 1000px) {
   .projects {
     grid-template-columns: repeat(3, 1fr); } }
 
@@ -537,7 +537,7 @@ a:active.btn {
 .blockquote h1 {
     position: relative;
     color: #FFFFFF;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 800;
     line-height: 1;
     margin: 0;
